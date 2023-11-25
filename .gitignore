@@ -1,0 +1,7 @@
+.vscode/
+.idea/
+.DS_Store
+*.log
+/bin
+config.toml
+cfg/*.json
